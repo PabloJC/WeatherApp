@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WheatherApp</string>
+    <string name="app_label">Search</string>
+    <string name="search_results">Search results</string>
+    <string name="history_results">History Results</string>
+    <string name="network_error">There was a problem with the connection</string>
+    <string name="default_error">An error occurred, try again later</string>
+    <string name="empty_history">There are no searches</string>
+    <string name="empty_search">No results found</string>
+    <string name="no_data">NO DATA AVAILABLE</string>
+    <string name="clouds">Clouds:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="degrees">%dº</string>
+    <string name="temperature">Temperature</string>
+    <string name="search_city">Search city</string>
+</resources>
